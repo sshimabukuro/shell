@@ -1,4 +1,4 @@
-# Unix shell
+# Unix shell - SO NOT COOL
 
 ## Content
 
